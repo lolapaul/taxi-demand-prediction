@@ -44,7 +44,7 @@ Build a model to predict the hourly number of taxi orders. The business goal is 
 ```
 taxi-demand-prediction/
 │
-├── proyecto_final_sprint13.ipynb
+├── taxi_demand_forecasting.ipynb
 ├── taxi.csv
 ├── README.md
 └── requirements.txt
