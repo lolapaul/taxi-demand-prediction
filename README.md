@@ -1,16 +1,16 @@
-# 🚖 Taxi Demand Prediction
+#  Taxi Demand Prediction
 
 Forecasting the number of taxi orders in the next hour using historical data from Sweet Lift Taxi. This project applies time series analysis and machine learning to support operational planning during peak demand at airports.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Build a model to predict the hourly number of taxi orders. The business goal is to improve driver allocation and availability based on forecasted demand, with an RMSE target below 48 on the test set.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 - **Source:** Sweet Lift Taxi historical order logs
 - **File:** `taxi.csv`
@@ -19,7 +19,7 @@ Build a model to predict the hourly number of taxi orders. The business goal is 
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Resampling:** Adjusted data into 1-hour intervals
 2. **Exploratory Data Analysis:** Trends, seasonality, and outliers
@@ -31,7 +31,7 @@ Build a model to predict the hourly number of taxi orders. The business goal is 
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Hourly demand shows clear time-of-day and day-of-week patterns.
 - LightGBM performed best with tuned hyperparameters.
@@ -39,7 +39,7 @@ Build a model to predict the hourly number of taxi orders. The business goal is 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 taxi-demand-prediction/
@@ -54,7 +54,7 @@ taxi-demand-prediction/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - pandas
@@ -66,13 +66,13 @@ taxi-demand-prediction/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Time Series Forecasting*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
