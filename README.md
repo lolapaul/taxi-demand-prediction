@@ -66,12 +66,6 @@ taxi-demand-prediction/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Time Series Forecasting*
-
----
-
 ##  Author
 
 David Villanueva  
